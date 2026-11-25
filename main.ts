@@ -9,7 +9,8 @@
 // certainty) and fails brilliantly three times in one sentence: the price
 // is absurd for a cable, the delivery takes longer than the charge would
 // last, and the cable fits only the iPhone 4s, a phone nobody owns anymore.
-// Specific, funny, and perfectly pointless.
+// Specific, funny, and perfectly pointless — a pitch that solves a problem
+// nobody has, badly, at a premium.
 // Verified by running the program: the output is exactly 148 characters,
 // one sentence, one line.
 
